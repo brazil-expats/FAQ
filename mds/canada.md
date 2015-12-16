@@ -29,7 +29,7 @@ Work permit e Permanent Resident.
 ## Qual o salário médio de um programador?
 
 ## É cobrado imposto sobre o salário?
-Sim. Varia por província e salário anual. [Saiba mais](http://www.cra-arc.gc.ca/tx/ndvdls/fq/txrts-eng.html).
+Sim se você ganha acima de $44.000cad ano. Varia por província e salário anual. [Saiba mais](http://www.cra-arc.gc.ca/tx/ndvdls/fq/txrts-eng.html).
 
 ## É necessário declarar imposto de renda?
 Sim. Normalmente no mês de Março e Abril.
