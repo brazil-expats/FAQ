@@ -2,6 +2,6 @@
 Perguntas e Respostas sobre trabalho fora do Brasil.
 
  * Austrália
- * [Canada](mds/canada.md)
+ * [Canada](https://github.com/brazil-expats/Canada)
  * Estados Unidos
  * Holanda
